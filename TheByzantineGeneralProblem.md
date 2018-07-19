@@ -38,3 +38,14 @@ informal approval of one traitor out of three generals are impossible
 by contradition, it approved the 3m + 1 generals are required to cope with m trators.
 
 **Reaching approximate agreement is just as hard as reaching exact agreement**
+
+## solution with oral message
+
+assumption about oral message
+
+1. Every message is delivered correctly
+2. Receivers know who is the sender
+3. absence of a message can be detected
+
+the practical implementation of these assumptions is discussed in section 6
+ 
